@@ -14,5 +14,4 @@ def massielRatio(dataInput):
             # 'la' is sometimes also codified as 'lalala'
             la += 3 * sum(map(lambda x : x == "lalala", tk))
 
-    print [words, la]
     return [words, la]
