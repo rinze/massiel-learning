@@ -12,3 +12,5 @@ Probably not Massiel
 ```
 
 Don't try to use it in production systems. 
+
+Inspired by [@sonicando](http://twitter.com/sonicando).
